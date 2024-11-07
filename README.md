@@ -57,6 +57,4 @@ Este programa solicita al usuario las **fechas de inicio y fin** de búsqueda de
 - GfG. (2024a, January 10). **Binary Search Data Structure and algorithm Tutorials**. *GeeksforGeeks*. [https://www.geeksforgeeks.org/binary-search/](https://www.geeksforgeeks.org/binary-search/)
 - GfG. (2024b, March 22). **QuickSort Data structure and algorithm tutorials**. *GeeksforGeeks*. [https://www.geeksforgeeks.org/quick-sort/](https://www.geeksforgeeks.org/quick-sort/)
 
----
 
-Este formato organizado y en Markdown hará que tu `README.md` sea fácil de leer y seguir.
