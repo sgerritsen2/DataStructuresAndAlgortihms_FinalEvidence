@@ -1,7 +1,5 @@
 
     Sebastian Gerritsen Ortiz A01643364
-    Victor Jaziel Coronado Flores A01644090
-    Angel Gabriel Arce Martinez A01736655
     Hecho en el 3 de Abril del 2024
 
     Este programa demuestra solicita al usuario las fechas de inicio y fin de búsqueda de 
